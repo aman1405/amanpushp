@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Aman Pushp
 ====================================================================================================================================
 
-Software Developer
+Email Developer
 -------------------
 
-* 🌍  I'm based in Giridih
+* 🌍  I'm based in Gurugram
 * 🖥️  See my portfolio at [MyPortfolio](http://ashishkumar16.netlify.app/)
 * ✉️  You can contact me at [ashish.as6021@gmail.com](mailto:ashish.as6021@gmail.com)
 
